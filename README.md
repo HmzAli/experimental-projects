@@ -3,4 +3,4 @@
 &nbsp;
 #### [Allergic Text](https://github.com/HmzAli/allergic-text)
 
-A demonstration of observer pattern
+A demonstration of observer pattern.
