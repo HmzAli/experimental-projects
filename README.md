@@ -1,4 +1,4 @@
-#### Links to personal projects that focus on visualizing codebase, infrastructure, software behavior, and other stuff
+#### Links to personal projects that focus on modelling and visualizing stuff
 
 &nbsp;
 #### [Allergic Text](https://github.com/HmzAli/allergic-text)
